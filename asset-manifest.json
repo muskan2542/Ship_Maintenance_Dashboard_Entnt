@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ship_Maintenance_Dashboard_Entnt/static/css/main.e9cde1f1.css",
+    "main.js": "/Ship_Maintenance_Dashboard_Entnt/static/js/main.b3a80688.js",
+    "index.html": "/Ship_Maintenance_Dashboard_Entnt/index.html",
+    "main.e9cde1f1.css.map": "/Ship_Maintenance_Dashboard_Entnt/static/css/main.e9cde1f1.css.map",
+    "main.b3a80688.js.map": "/Ship_Maintenance_Dashboard_Entnt/static/js/main.b3a80688.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9cde1f1.css",
+    "static/js/main.b3a80688.js"
+  ]
+}
